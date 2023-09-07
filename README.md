@@ -58,7 +58,7 @@ spring.jpa.properties.hibernate.format_sql=true
 <br>
 
 ## Language Used
-* Java
+* Java 8
 
 ---
 <br>
